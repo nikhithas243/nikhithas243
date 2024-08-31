@@ -2,13 +2,9 @@
 
 
 
-
-
-&emsp;
 <h3 align="left">Hi 👋, Computer Science student based in India.I have hands-on experience in building scalable web applications using modern technologies. Skilled in both frontend and backend development, I focus on creating seamless user experiences and robust, maintainable code. Passionate about learning new tools.</h3>
 
 &emsp;
--------------------
 
 - 👀 I’m interested in Back-End Web Development
 - 🌱 I’m currently learning DevOps.
