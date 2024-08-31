@@ -6,10 +6,10 @@
 
 &emsp;
 <h3 align="left">Hi 👋, Computer Science student based in India.I have hands-on experience in building scalable web applications using modern technologies. Skilled in both frontend and backend development, I focus on creating seamless user experiences and robust, maintainable code. Passionate about learning new tools.</h3>
-&emsp;
 
--------------------
 &emsp;
+-------------------
+
 - 👀 I’m interested in Back-End Web Development
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Full-Stack projects
@@ -19,7 +19,7 @@
 &emsp;
 
 ## 🛠️ My Skills
--------------------
+
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -58,7 +58,15 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
+&emsp;
 
+## What I'm Up To 🚀
+
+🛠️ Actively engaged in personal project endeavors
+
+➗ Improving my problem solving through Data Structures and Algorithms
+
+🌐 Navigating the open-source landscape as a curious explorer
 
 &emsp;
 
@@ -66,12 +74,12 @@
 
 ### 💻 Profile Stats
 
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
+![nikhithas243's Stats](https://github-readme-stats.vercel.app/api?username=nikhithas243&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![nikhithas243's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhithas243&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![nikhithas243's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhithas243&theme=dark&hide_border=true)
 
 
 
