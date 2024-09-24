@@ -11,9 +11,10 @@
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Full-Stack projects
 - 😄 Pronouns: she/her.
-- 💬 Ask me about **MongoDB,Express,Nodejs,Reactjs,AWS,MySQL,FireBase**
+- 💬 Ask me about **MongoDB,Express,Nodejs,Reactjs,FireBase**
 
 &emsp;
+<!---
 
 ## 🛠️ My Skills
 
@@ -49,13 +50,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-### DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 
-&emsp;
 
 ## What I'm Up To 🚀
 
@@ -65,18 +60,8 @@
 
 🌐 Navigating the open-source landscape as a curious explorer
 
-&emsp;
 
-## 📈 My GitHub Stats and Activity
 
-### 💻 Profile Stats
-
-![nikhithas243's Stats](https://github-readme-stats.vercel.app/api?username=nikhithas243&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![nikhithas243's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhithas243&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-### 🔥 Streak Stats
-
-![nikhithas243's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhithas243&theme=dark&hide_border=true)
 
 
 
