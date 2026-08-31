@@ -3,12 +3,12 @@
 ![image](https://github.com/user-attachments/assets/77f736e2-413b-4254-adc7-1bc659e51ef6)
 
 <h1 align="left">Hola Amigos👋!!</h1>
-<h3 align="left">I'm Nikhitha. I'm a Computer Science student from India.I have hands-on experience in building scalable web applications using modern technologies. Skilled in both frontend and backend development, I focus on creating seamless user experiences and robust, maintainable code. Passionate about learning new tools.</h3>
+<h3 align="left">I'm Nikhitha. I'm a working professional @Oracle from India.I have hands-on experience in building scalable web applications using modern technologies. Skilled in both frontend and backend development, I focus on creating seamless user experiences and robust, maintainable code. Passionate about learning new tools.</h3>
 
 &emsp;
 -----------
 - 👀 I’m interested in Back-End Web Development
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently exploring AI.
 - 💞️ I’m looking to collaborate on Full-Stack projects
 - 😄 Pronouns: she/her.
 - 💬 Ask me about **MongoDB,Express,Nodejs,Reactjs,FireBase**
